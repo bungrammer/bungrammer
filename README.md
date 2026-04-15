@@ -8,7 +8,6 @@
 <br>
 <div align="center">
   <a href="https://www.codewars.com/users/EvilKarrot"><img src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/richard-carveth/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 </div>
 <div align="center">
   <a href="https://discord.com/users/257490487764582400"><img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge"></a>
