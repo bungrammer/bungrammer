@@ -33,12 +33,12 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richard-carveth&show_icons=true&theme=gruvbox" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-carveth&layout=compact&theme=gruvbox" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=bungrammer&show_icons=true&theme=gruvbox" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bungrammer&layout=compact&theme=gruvbox" height="150">
 </div>
 <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=richard-carveth&theme=juicyfresh">
+  <img src="https://github-profile-trophy.vercel.app/?username=bungrammer&theme=juicyfresh">
 </div>
 
 
